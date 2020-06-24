@@ -12,7 +12,6 @@ import FirebaseDatabase
 class ComposeViewController: UIViewController {
     
     var ref: DatabaseReference?
-    
 
     @IBOutlet weak var textView: UITextView!
     
